@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_note_here">Enter your Note Here</string>
+    <string name="nameInput">Enter Your Note</string>
+    <string name="button">Button</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="Description">Description</string>
+    <string name="Save">save</string>
+
+</resources>
